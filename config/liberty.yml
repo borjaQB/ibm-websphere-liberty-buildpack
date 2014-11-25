@@ -15,7 +15,7 @@
 
 # Configuration for the Liberty container
 ---
-repository_root: "http://dev.quantobit.com/index.yml"
+repository_root: "http://dev.quantobit.com/"
 version: 8.5.+
 minify: false
 liberty_repository_properties:
